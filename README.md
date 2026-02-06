@@ -1,4 +1,3 @@
-# Summarisation-of-Medical-Report-LLM-
 # Overview
 This project presents an end-to-end Medical Text Intelligence Pipeline that combines:
 - Large Language Models (LLMs) for medical report summarization
